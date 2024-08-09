@@ -10,8 +10,6 @@ use Cycle\ORM\MapperInterface;
 use Cycle\ORM\Select\SourceInterface;
 
 /**
- * @internal
- *
  * Don't listen to this event
  */
 abstract class MapperEvent
